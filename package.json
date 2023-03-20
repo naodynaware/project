@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "description": "Project.",
+  "main": "build/app.js",
+  "scripts": {
+    "start": "node build/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Lorenzo Barretta",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.2",
+    "typescript": "^4.9.5"
+  },
+  "volta": {
+    "node": "18.15.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
