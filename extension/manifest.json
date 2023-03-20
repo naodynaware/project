@@ -6,5 +6,12 @@
     "action": {
         "default_popup": "popup.html",
         "default_title": "DynAware - NAO Challenge 2023"
-    }
+    },
+    "host_permissions": [
+        "*://*.enel.it/*"
+    ],
+    "permissions": [
+        "cookies",
+        "activeTab"
+    ]
 }
