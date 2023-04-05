@@ -1,0 +1,3064 @@
+{
+    "data": {
+        "esitoRichiesta": "0",
+        "aggregationResult": {
+            "requestId": "6b7fd028-8199-43b6-b629-78b2750d7895",
+            "channel": "A",
+            "pod": "IT001E68430672",
+            "numeroUtente": "104389955",
+            "validityFrom": "01032023",
+            "validityTo": "29032023",
+            "total": 167.389,
+            "aggregations": [
+                {
+                    "referenceID": "hourlyConsumption",
+                    "resultType": "daily",
+                    "results": [
+                        {
+                            "date": "01032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.184
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.164
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.247
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.164
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.163
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.138
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.331
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.246
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.146
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.124
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.12
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.133
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.125
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.124
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.137
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.256
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.288
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.296
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.315
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.309
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.313
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.317
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.183
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.184
+                                }
+                            ]
+                        },
+                        {
+                            "date": "02032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.168
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.171
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.156
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.147
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.17
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.436
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.281
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.333
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.116
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.127
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.15
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.104
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.156
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.191
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.212
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.274
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.277
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.242
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.317
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.307
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.324
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.208
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.186
+                                }
+                            ]
+                        },
+                        {
+                            "date": "03032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.169
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.144
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.159
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.145
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.157
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.164
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.201
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.255
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.242
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.143
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.132
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.139
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.106
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.13
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.128
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.195
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.181
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.185
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.225
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.352
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.287
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.199
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.203
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.2
+                                }
+                            ]
+                        },
+                        {
+                            "date": "04032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.207
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.155
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.167
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.167
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.162
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.177
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.146
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.241
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.243
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.259
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.223
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.182
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.138
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.127
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.149
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.153
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.137
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.258
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.336
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.514
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.581
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.711
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.38
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.201
+                                }
+                            ]
+                        },
+                        {
+                            "date": "05032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.166
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.177
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.168
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.162
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.212
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.191
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.165
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.38
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.165
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.197
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.178
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.186
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.195
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.228
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.197
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.171
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.208
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.221
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.257
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.542
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.872
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.662
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.599
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.148
+                                }
+                            ]
+                        },
+                        {
+                            "date": "06032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.189
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.195
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.165
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.148
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.12
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.74
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 1.036
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.728
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 1.114
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.544
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.131
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.119
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.159
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.133
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.379
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.639
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.708
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.748
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.48
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.344
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.217
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.388
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.169
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.157
+                                }
+                            ]
+                        },
+                        {
+                            "date": "07032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.163
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.227
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.174
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.155
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.13
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.141
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.591
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.687
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.495
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 1.16
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.148
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.133
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.154
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.129
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.145
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.151
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.152
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.256
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.293
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.478
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.685
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.68
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.702
+                                }
+                            ]
+                        },
+                        {
+                            "date": "08032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.279
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.185
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.138
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.156
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.128
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.15
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.241
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.237
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.228
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.206
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.2
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.139
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.159
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.161
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.19
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.181
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.183
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.249
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.308
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.279
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.194
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.164
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.183
+                                }
+                            ]
+                        },
+                        {
+                            "date": "09032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.223
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.167
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.156
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.135
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.337
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.699
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.136
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.139
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.162
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.16
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.17
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.507
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.639
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.725
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.726
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.82
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.63
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.287
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.19
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.182
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.164
+                                }
+                            ]
+                        },
+                        {
+                            "date": "10032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.159
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.142
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.166
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.233
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.18
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.371
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.638
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.494
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.546
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.316
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.161
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.154
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.15
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.168
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.315
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.192
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.551
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.285
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.382
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.317
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.307
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.239
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.179
+                                }
+                            ]
+                        },
+                        {
+                            "date": "11032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.177
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.166
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.16
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.142
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.153
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.206
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.332
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.4
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.26
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.209
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.193
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.208
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.207
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.374
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.373
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.191
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.185
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.161
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.266
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.248
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.266
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.191
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.197
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.178
+                                }
+                            ]
+                        },
+                        {
+                            "date": "12032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.173
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.149
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.166
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.121
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.164
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.123
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.196
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.161
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.211
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.626
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.421
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.519
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.252
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.224
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.212
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.213
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.259
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.633
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.72
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.747
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.278
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.224
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.182
+                                }
+                            ]
+                        },
+                        {
+                            "date": "13032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.159
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.164
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.143
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.146
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.136
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.209
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.309
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.43
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.186
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.148
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.116
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.158
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.141
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.126
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.15
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.16
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.141
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.158
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.216
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.271
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.489
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.646
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.547
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.157
+                                }
+                            ]
+                        },
+                        {
+                            "date": "14032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.174
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.14
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.149
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.143
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.153
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.152
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.264
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.274
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.39
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.276
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.153
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.169
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.15
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.165
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.154
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.184
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.236
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.202
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.288
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.256
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.18
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.161
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.186
+                                }
+                            ]
+                        },
+                        {
+                            "date": "15032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.165
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.164
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.125
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.167
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.12
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.151
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.206
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 1.206
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.805
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.266
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.204
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.22
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.211
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.241
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.368
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.563
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.636
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.306
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.313
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.268
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.244
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.279
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.426
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.226
+                                }
+                            ]
+                        },
+                        {
+                            "date": "16032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.192
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.204
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.155
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.16
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.207
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.398
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.617
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.128
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.116
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.124
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.133
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.214
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.222
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.412
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.602
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.513
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.195
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.425
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.261
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.23
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.19
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.19
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.191
+                                }
+                            ]
+                        },
+                        {
+                            "date": "17032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.164
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.188
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.177
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.123
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.166
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.201
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.239
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.378
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.382
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.107
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.139
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.128
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.116
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.154
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.257
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.156
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.176
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.214
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.333
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.325
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.353
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.314
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.254
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.141
+                                }
+                            ]
+                        },
+                        {
+                            "date": "18032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.149
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.125
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.124
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.136
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.124
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.139
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.14
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.182
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.147
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.155
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.161
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.165
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.189
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.212
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.207
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.401
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.177
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.202
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.257
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.256
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.228
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.243
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.209
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.16
+                                }
+                            ]
+                        },
+                        {
+                            "date": "19032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.156
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.135
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.143
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.133
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.109
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.128
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.294
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.72
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.218
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.166
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.467
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.674
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.965
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.613
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.728
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.738
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.583
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.215
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.431
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.322
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.279
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.21
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.153
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.16
+                                }
+                            ]
+                        },
+                        {
+                            "date": "20032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.148
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.153
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.154
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.129
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.139
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.143
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.34
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.231
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.796
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.223
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.155
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.138
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.134
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.348
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.372
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.185
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.203
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.238
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.647
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.557
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.284
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.218
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.225
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.183
+                                }
+                            ]
+                        },
+                        {
+                            "date": "21032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.162
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.169
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.146
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.168
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.192
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.244
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.298
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.196
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.206
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.201
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.209
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.201
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.209
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.189
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.16
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.243
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.216
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.271
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.238
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.177
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.169
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.216
+                                }
+                            ]
+                        },
+                        {
+                            "date": "22032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.157
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.176
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.147
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.161
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.16
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.193
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.853
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.219
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.165
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.119
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.201
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.167
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.186
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.211
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.351
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.235
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.251
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.292
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.866
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.365
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.38
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.348
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.274
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.222
+                                }
+                            ]
+                        },
+                        {
+                            "date": "23032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.208
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.209
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.196
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.228
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.2
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.313
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.853
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.423
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.267
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.216
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.225
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.201
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.211
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.211
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.211
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.216
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.23
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.199
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.253
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.27
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.28
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.225
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.181
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.172
+                                }
+                            ]
+                        },
+                        {
+                            "date": "24032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.15
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.171
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.133
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.154
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.139
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.143
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.23
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.379
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.726
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.154
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.155
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.147
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.148
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.132
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.145
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.163
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.172
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.191
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.538
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.748
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.655
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.391
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.258
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.189
+                                }
+                            ]
+                        },
+                        {
+                            "date": "25032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.191
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.166
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.14
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.168
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.154
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.152
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.442
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.394
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.43
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.183
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.201
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.168
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.193
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.198
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.198
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.161
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.181
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.155
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.239
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.296
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.354
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.404
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.28
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.256
+                                }
+                            ]
+                        },
+                        {
+                            "date": "26032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.199
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.171
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.154
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.15
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.147
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.14
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.738
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.687
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.647
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.683
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.294
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.386
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.207
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.201
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.204
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.175
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.171
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.199
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.223
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.258
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.228
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.166
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.164
+                                }
+                            ]
+                        },
+                        {
+                            "date": "27032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "H1",
+                                    "value": 0.185
+                                },
+                                {
+                                    "name": "H2",
+                                    "value": 0.171
+                                },
+                                {
+                                    "name": "H3",
+                                    "value": 0.161
+                                },
+                                {
+                                    "name": "H4",
+                                    "value": 0.148
+                                },
+                                {
+                                    "name": "H5",
+                                    "value": 0.136
+                                },
+                                {
+                                    "name": "H6",
+                                    "value": 0.166
+                                },
+                                {
+                                    "name": "H7",
+                                    "value": 0.189
+                                },
+                                {
+                                    "name": "H8",
+                                    "value": 0.321
+                                },
+                                {
+                                    "name": "H9",
+                                    "value": 0.237
+                                },
+                                {
+                                    "name": "H10",
+                                    "value": 0.169
+                                },
+                                {
+                                    "name": "H11",
+                                    "value": 0.146
+                                },
+                                {
+                                    "name": "H12",
+                                    "value": 0.156
+                                },
+                                {
+                                    "name": "H13",
+                                    "value": 0.113
+                                },
+                                {
+                                    "name": "H14",
+                                    "value": 0.165
+                                },
+                                {
+                                    "name": "H15",
+                                    "value": 0.136
+                                },
+                                {
+                                    "name": "H16",
+                                    "value": 0.143
+                                },
+                                {
+                                    "name": "H17",
+                                    "value": 0.204
+                                },
+                                {
+                                    "name": "H18",
+                                    "value": 0.154
+                                },
+                                {
+                                    "name": "H19",
+                                    "value": 0.219
+                                },
+                                {
+                                    "name": "H20",
+                                    "value": 0.27
+                                },
+                                {
+                                    "name": "H21",
+                                    "value": 0.253
+                                },
+                                {
+                                    "name": "H22",
+                                    "value": 0.378
+                                },
+                                {
+                                    "name": "H23",
+                                    "value": 0.155
+                                },
+                                {
+                                    "name": "H24",
+                                    "value": 0.151
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "referenceID": "dailyConsumption",
+                    "resultType": "daily",
+                    "results": [
+                        {
+                            "date": "01032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 5.007
+                                }
+                            ]
+                        },
+                        {
+                            "date": "02032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 5.225
+                                }
+                            ]
+                        },
+                        {
+                            "date": "03032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 4.441
+                                }
+                            ]
+                        },
+                        {
+                            "date": "04032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 6.014
+                                }
+                            ]
+                        },
+                        {
+                            "date": "05032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 6.647
+                                }
+                            ]
+                        },
+                        {
+                            "date": "06032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 9.75
+                                }
+                            ]
+                        },
+                        {
+                            "date": "07032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 8.201
+                                }
+                            ]
+                        },
+                        {
+                            "date": "08032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 4.71
+                                }
+                            ]
+                        },
+                        {
+                            "date": "09032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 7.87
+                                }
+                            ]
+                        },
+                        {
+                            "date": "10032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 6.817
+                                }
+                            ]
+                        },
+                        {
+                            "date": "11032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 5.443
+                                }
+                            ]
+                        },
+                        {
+                            "date": "12032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 7.146
+                                }
+                            ]
+                        },
+                        {
+                            "date": "13032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 5.506
+                                }
+                            ]
+                        },
+                        {
+                            "date": "14032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 4.771
+                                }
+                            ]
+                        },
+                        {
+                            "date": "15032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 7.88
+                                }
+                            ]
+                        },
+                        {
+                            "date": "16032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 6.251
+                                }
+                            ]
+                        },
+                        {
+                            "date": "17032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 5.185
+                                }
+                            ]
+                        },
+                        {
+                            "date": "18032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 4.488
+                                }
+                            ]
+                        },
+                        {
+                            "date": "19032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 8.74
+                                }
+                            ]
+                        },
+                        {
+                            "date": "20032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 6.343
+                                }
+                            ]
+                        },
+                        {
+                            "date": "21032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 4.824
+                                }
+                            ]
+                        },
+                        {
+                            "date": "22032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 6.699
+                                }
+                            ]
+                        },
+                        {
+                            "date": "23032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 6.198
+                                }
+                            ]
+                        },
+                        {
+                            "date": "24032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 6.411
+                                }
+                            ]
+                        },
+                        {
+                            "date": "25032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 5.704
+                                }
+                            ]
+                        },
+                        {
+                            "date": "26032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 6.592
+                                }
+                            ]
+                        },
+                        {
+                            "date": "27032023",
+                            "measureType": "RN",
+                            "binValues": [
+                                {
+                                    "name": "D1",
+                                    "value": 4.526
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "status": {
+        "code": "0",
+        "result": "OK",
+        "description": "SUCCESS"
+    },
+    "meta": {
+        "tid": "2d7702be-5ebe-48fb-aa69-762f90bf3759",
+        "sid": "2bb76dfe-d124-4938-b952-a6e4e92d4b6b",
+        "path": "/query/v1/aggregateConsumption",
+        "method": "get-aggregate-consumption",
+        "dataAggiornamento": "29-03-2023 12:39:22"
+    }
+}
