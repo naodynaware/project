@@ -1,7 +1,7 @@
 import socket #nao is a client
 import time
 
-HOST = "192.168.69.55"
+HOST = "192.168.24.157"
 PORT = 9000
 
 class MyClass(GeneratedClass):
@@ -11,6 +11,8 @@ class MyClass(GeneratedClass):
         GeneratedClass.__init__(self, False)
         self.tts = ALProxy('ALTextToSpeech')
         self.ttsStop = ALProxy('ALTextToSpeech', True)
+        self.tts = self.session().service('ALAnimatedSpeech')
+        self.ttsStop = self.session().service('ALAnimatedSpeech')
 
     def onLoad(self):
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -24,8 +26,7 @@ class MyClass(GeneratedClass):
             data = s.recv(1024)
             received = data.decode("utf-8")
             print("Received: " + received)
-            id = self.tts.pCall("say", str(received))
-            self.ids.append(id)
+            id = self.tts.pCall("say", str(received), {"speakingMovementMode": "contextual"})
             self.tts.wait(id, 0)
             
         sock.close()

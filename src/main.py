@@ -71,7 +71,6 @@ def stt():
 def main():
     json_data = None
 
-    # Currently imported from a JSON file, but this should later be imported from the ENEL API.
     req = requests.get(API_URL, headers={"cookie": f"USERSESSIONID={USER_SESSION_ID}"})
     json_data = req.json()
 
@@ -126,7 +125,7 @@ def main():
                 L'utente, generalmente, lavora dal lunedì a venerdì dalle 8 alle 17 e torna a casa per le 18. Al ritorno gioca al PC oppure guarda la TV fino alle 19.30 circa. \
                 Fa la lavatrice il venerdì di ogni settimana. Dati i consumi di un determinato giorno, fornisci all'utente opinioni e consigli su come consumare energia elettrica responsabilmente. \
                 Chiedi a lui cosa ha fatto durante la giornata e rispondi con un consiglio. \
-                L'utente ha avuto il suo massimo consumo il giorno {max_consumption_day} del mese {max_consumption_month} con un consumo di {max_consumption} kilowatt all'ora {max_consumption_hour}. \
+                L'utente ha avuto il suo massimo consumo il giorno {max_consumption_day} del mese di {month_to_string(max_consumption_month)} con un consumo di {max_consumption} kilowatt all'ora {max_consumption_hour}. \
                 L'orario di massimo consumo è alle 18.00. \
                 Se ti rendi conto di non avere nulla di utile da dire durante la conversazione, utilizza questi dati per formulare dei suggerimenti. \
                 Nel testo prodotto, non utilizzare segni di punteggiatura, a meno che non siano necessari per la sintassi. \
