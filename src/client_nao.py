@@ -1,7 +1,7 @@
 import socket #nao is a client
 import time
 
-HOST = "192.168.66.68"
+HOST = "192.168.69.55"
 PORT = 9000
 
 class MyClass(GeneratedClass):
@@ -19,10 +19,14 @@ class MyClass(GeneratedClass):
         id = self.tts.pCall("say", str("Sono pronto"))
 
         while True:
+            s.send("listen now".encode("utf-8"))
+            
             data = s.recv(1024)
             received = data.decode("utf-8")
             print("Received: " + received)
             id = self.tts.pCall("say", str(received))
+            self.ids.append(id)
+            self.tts.wait(id, 0)
             
         sock.close()
         # put initialization code here

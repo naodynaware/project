@@ -1,6 +1,7 @@
 import socket
+import time
 
-HOST = "192.168.1.146"
+HOST = "192.168.144.157"
 PORT = 9000
 
 def main():
@@ -11,6 +12,10 @@ def main():
     while True:
         data = s.recv(1024)
         print("Received: " + data.decode("utf-8"))
+        time.sleep(2)
+        s.send("listen now".encode("utf-8"))
+        print("Sending: listen now")
+
 
 if __name__ == "__main__":
     main()
