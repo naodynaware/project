@@ -17,17 +17,17 @@ class MyClass(GeneratedClass):
     def onLoad(self):
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         s.connect((HOST, PORT))
-        s.send("Hello".encode("utf-8"))
+        s.send("listen now".encode("utf-8"))
         id = self.tts.pCall("say", str("Sono pronto"))
 
         while True:
-            s.send("listen now".encode("utf-8"))
-            
             data = s.recv(1024)
             received = data.decode("utf-8")
             print("Received: " + received)
             id = self.tts.pCall("say", str(received), {"speakingMovementMode": "contextual"})
             self.tts.wait(id, 0)
+
+            s.send("listen now".encode("utf-8"))
             
         sock.close()
         # put initialization code here
