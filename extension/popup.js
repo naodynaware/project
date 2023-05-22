@@ -10,5 +10,14 @@ async function setCookie() {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-    document.getElementById("cookie-button").addEventListener("click", setCookie);
+    setCookie();
+
+    var btn = document.getElementById("copy");
+
+    btn.addEventListener("click", function () {
+        navigator.clipboard.writeText(cookie.value).then(function () {
+            /* clipboard successfully set */
+            btn.innerHTML = "Copied!";
+        });
+    })
 });
